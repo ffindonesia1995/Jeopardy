@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Category xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>(in)FAMOUS BIRDS</Text>
+  <Clues>
+    <Clue>
+      <Text>BENJAMIN FRANKLIN SPURNED THE IDEA OF THE EAGLE AS THE NATIONAL BIRD, INSTEAD PREFERRING THIS</Text>
+      <DailyDouble>false</DailyDouble>
+      <Answer>WHAT IS THE TURKEY</Answer>
+    </Clue>
+  </Clues>
+</Category>

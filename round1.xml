@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Category>
+    <Text>FOUNDING FATHERS</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>COMMANDING GENERAL OF THE CONTINENTAL ARMY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>GEN GEORGE WASHINGTON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>HE INVENTED BI-FOCALS &amp; THE ODOMETER</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>BEN FRANKLIN</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>HE WAS THE FIRST PRESIDENT WHOSE SON WAS ALSO A PRESIDENT</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JOHN ADAMS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>AUTHOR OF       'THE WEALTH OF NATIONS'</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>ADAM SMITH</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>THIS FOUNDING FATHER, IT COULD BE SAID, HAD THE MOST COMMON SENSE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>THOMAS PAYNE</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>1776</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>TAXATION WITHOUT THIS</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>REPRESENTATION</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>THE 2ND CONTINENTAL CONGRESS MET IN THIS BUILDING</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>INDEPENDENCE HALL, PHILIDELPHIA (STATE HOUSE)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>HIS RIDE STARTED WITH THE CODE '1 IF BY LAND, 2 IF BY SEA'</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>PAUL REVERE</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>THIS WAS THE ONLY COLONY TO NOT VOTE FOR INDEPENDENCE</Text>
+        <DailyDouble>true</DailyDouble>
+        <Answer>NEW YORK (WHO ABSTAINED)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>ON CHRISTMAS DAY, GEN WASHINGTON LED TROOPS ACROSS THIS RIVER</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>DELAWARE</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>POTPOURRI</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>WILLIAM SHATNER SINGS FOR THIS "DOT COM"</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>PRICELINE.COM</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>'TOP GUN' FLIES FOR THIS BRANCH OF THE ARMED FORCES</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>US NAVY</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>HE SANG THE THEME TO 'GHOSTBUSTERS'</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>RAY PARKER JR.</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>ACCORDING TO LICENSE PLATES, VIRGINIA IS FOR THESE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>LOVERS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>THESE THREE THINGS ARE FEARED IN THE FIRESWAMP</Text>
+        <DailyDouble>true</DailyDouble>
+        <Answer>FLAME SPURTS, LIGHTNING SAND, AND R.O.U.S.'s</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>FOUNDING FIRSTS</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>SEWED THE FIRST US FLAG</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>BETSY ROSS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>THE FIRST COLONY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>VIRGINIA (JAMESTOWN)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>FIRST COLLEGE IN USA</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>HARVARD (1636)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>THE BIRTHPLACE OF 1ST TRANS-CONTINENTAL RAILROAD</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>GOLDEN SPIKE, PROMENTARY SUMMIT (CENTRAL &amp; UNION PACIFIC)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>FIRST NON-COLONY STATE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>VERMONT (1791)</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>MORMONS IN US HISTORY</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>HE CAMPAIGNED AGAINST PRESIDENT VAN BUREN FOR HIS 2ND TERM</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JOSEPH SMITH JR.</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>INVENTOR OF THE CATHODE RAY TUBE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>PHILO T. FARNSWORTH</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>PERHAPS THE MOST FAMOUS FIREARMS DESIGNER</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JOHN BROWNING</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>HOLDS THE RECORD FOR THE MOST CONSECUTIVE WINS IN THE GAME YOU'RE CURRENTLY PLAYING</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>KEN JENNINGS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>HE IS THE MOST FAMOUS MORMON-NON-MORMON</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>STEVE MARTIN</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>O' SAY CAN YOU SING</Text>
+    <Clues>
+      <Clue>
+        <Value>$200</Value>
+        <Text>PUT A FEATHER IN HIS CAP, AND CALLED IT MACARONI</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>YANKEE DOODLE</Answer>
+      </Clue>
+      <Clue>
+        <Value>$400</Value>
+        <Text>AMBER WAVES OF GRAIN</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>AMERICA THE BEAUTIFUL</Answer>
+      </Clue>
+      <Clue>
+        <Value>$600</Value>
+        <Text>FROM CALIFORNIA TO THE NEW YORK ISLAND</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>THIS LAND IS YOUR LAND</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>ON THE BOATS AND ON THE PLANES  TODAY, TODAY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>(THEY'RE COMIN TO) AMERICA</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1000</Value>
+        <Text>GOD SAVE THE QUEEN?</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>MY COUNTRY, 'TIS OF THEE</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+</ArrayOfCategory>

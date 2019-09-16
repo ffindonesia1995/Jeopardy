@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Category>
+    <Text>MY COUNTRY 'TIS OF THEE</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>THESE FOUR STATES JOIN AT FOUR CORNERS</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>UT, CO, AR, NM</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>THIS STATE IS KNOWN FOR ITS BIGGEST BALL OF TWINE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>MINNESOTA</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>FACE IT, THIS NATIONAL MONUMENT TOOK 14 YEARS TO BUILD</Text>
+        <DailyDouble>true</DailyDouble>
+        <Answer>MT RUSHMORE(1927-1941)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>THIS STATE CONTAINS THE MOST NATIONAL PARKS</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>CA (23), </Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>CRACKER JACK WAS INTRODUCED AT THIS WORLD'S FAIR IN 1893</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>CHICAGO</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>4TH OF JULY</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>THESE TWO FOUNDING FATHERS BOTH DIED ON JULY 4TH,  1826</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JEFFERSON &amp; ADAMS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>THE FIRST 4TH OF JULY CELEBRATION HERE WAS IN 1804</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>WHITE HOUSE</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>1941 WAS THE FIRST TIME THE 4TH OF JULY WAS THIS</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>FEDERAL HOLIDAY</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>THIS IS THE ACTUAL EVENT THAT HAPPENED ON JULY 4TH, 1776</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>RATIFICATION OF THE D of I</Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>IN 1996, WILL SMITH FOUGHT BACK AGAINST ALIENS IN THIS PATRIOTIC MOVIE</Text>
+        <DailyDouble>true</DailyDouble>
+        <Answer>INDEPENDENCE DAY</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>I AM NOT DEPENDENT!</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>HE WAS MY PRIMARY AUTHOR</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JEFFERSON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>HE WAS THE FIRST TO SIGN ME</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JOHN HANCOCK</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>MY FIRST SEVEN WORDS</Text>
+        <DailyDouble>true</DailyDouble>
+        <Answer>WHEN IN THE COURSE OF HUMAN EVENTS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>THREE OF THE MEN WHO WERE ON THE COMMITTE TO WRITE ME</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JEFFERSON, ADAMS, FRANKLIN, SHERMAN, LIVINGSTON </Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>HE WAS THE LAST TO SIGN ME</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>THOMAS McKEAN(DELAWARE)</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>POTPOURRI II</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>RALPHIE WANTS ONE OF THESE IN A CHRISTMAS STORY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>RED RIDER BB GUN</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>HAN SOLO FAMOUSLY FLEW THIS: THE FASTEST HUNK OF JUNK IN THE GALAXY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>MILLENNIUM FALCON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>THESE TWO WORDS COMBINED FORM THE BASIS OF 'POKEMON'</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>POCKET &amp; MONSTER</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>IT'S BEEN A HARD DAY'S NIGHT, I SHOULD BE SLEEPING LIKE A THIS</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>LOG</Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>THIS COMPANY ADVISED US TO 'AVOID THE NOID'</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>DOMINOS PIZZA</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>DOLLAR DOLLAR BILLS</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>$2</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JEFFERSON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>$5</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>LINCOLN</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>$10</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>HAMILTON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>$20</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JACKSON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>$50</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>GRANT</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+  <Category>
+    <Text>PRESIDENTS</Text>
+    <Clues>
+      <Clue>
+        <Value>$400</Value>
+        <Text>THE FIRST TO LIVE IN THE WHITE HOUSE</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JOHN ADAMS</Answer>
+      </Clue>
+      <Clue>
+        <Value>$800</Value>
+        <Text>HE WAS THE FIRST TO BE ELECTED FROM THE REPUBLICAN PARTY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>ABRAHAM LINCOLN</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1200</Value>
+        <Text>HE WAS THE FIRST TO BE ELECTED FROM THE DEMOCRATIC PARTY</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>ANDREW JACKSON</Answer>
+      </Clue>
+      <Clue>
+        <Value>$1600</Value>
+        <Text>HE WAS THE FIRST TO BE IMPEACHED</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>ANDREW JOHNSON (17TH P. OVER THE RIGHTS OF FREEDMEN)</Answer>
+      </Clue>
+      <Clue>
+        <Value>$2000</Value>
+        <Text>BESIDES LINCOLN AND KENNEDY, ANOTHER PRESIDENT WHO WAS ASSASINATED</Text>
+        <DailyDouble>false</DailyDouble>
+        <Answer>JAMES GARFIELD or WILLIAM McKINLEY</Answer>
+      </Clue>
+    </Clues>
+  </Category>
+</ArrayOfCategory>
